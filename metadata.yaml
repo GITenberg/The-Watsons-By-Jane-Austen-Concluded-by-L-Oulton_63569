@@ -1,0 +1,39 @@
+_repo: The-Watsons-By-Jane-Austen-Concluded-by-L-Oulton_63569
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Austen-Leigh, James Edward
+    birthdate: 1798
+    deathdate: 1874
+    gutenberg_agent_id: '7603'
+    url: http://www.gutenberg.org/2009/agents/7603
+creator:
+  authors:
+  - agent_name: Oulton, L.
+    gutenberg_agent_id: '52504'
+    url: http://www.gutenberg.org/2009/agents/52504
+  - agent_name: Austen, Jane
+    birthdate: 1775
+    deathdate: 1817
+    gutenberg_agent_id: '68'
+    url: http://www.gutenberg.org/2009/agents/68
+    wikipedia: https://en.wikipedia.org/wiki/Jane_Austen
+description: ''
+gutenberg_issued: '2020-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63569'
+  lccn: '23006147'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Families -- Fiction'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Mate selection -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'The Watsons: By Jane Austen, Concluded by L. Oulton'
+url: http://www.gutenberg.org/ebooks/63569
